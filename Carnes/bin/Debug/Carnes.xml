@@ -1,0 +1,471 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Carnes
+</name>
+</assembly>
+<members>
+<member name="T:Carnes.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.aceptar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.aceptar1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.anular">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.articulos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.buscar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.busquedarapida">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.CarnesUriel">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.cerrar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.clientes">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.cotizacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.eliminar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.enviar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.factura">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.familias">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.FONDO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.grabar">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.imprimir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.ingresos">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.llave">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.LOGOBUSQUEDA">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.LOGOTIPO">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.marcas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.monedas">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.nuevo">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.nuevo1">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.Presentacion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.proveedor">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.reporte">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.salir">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.series">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.sesion">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.subfamilias">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:Carnes.My.Resources.Resources.usuario">
+<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_CLIENTESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FAMILIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_MARCASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_PROVEEDORESDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_SUBFAMILIASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ARTICULOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ORDINGDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_COTIZACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FACTURACIONDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_VENTASDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_INGRESOSDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_KARDEXDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_CLIENTESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FAMILIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_MARCASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_PROVEEDORESRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_SUBFAMILIASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ARTICULOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ORDINGRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_COTIZACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FACTURACIONRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_VENTASRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_INGRESOSRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_KARDEXRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_CLIENTESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FAMILIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_MARCASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_PROVEEDORESRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_SUBFAMILIASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ARTICULOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_ORDINGRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_COTIZACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_FACTURACIONRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_VENTASRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_RPT_INGRESOSRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOS.SP_KARDEXRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_CLIENTESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_FAMILIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_MARCASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_PROVEEDORESTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_SUBFAMILIASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_ARTICULOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_ORDINGTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_COTIZACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_FACTURACIONTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_VENTASTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.SP_RPT_INGRESOSTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:Carnes.DstDATOSTableAdapters.TableAdapterManager.UpdateUpdatedRows(Carnes.DstDATOS,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:Carnes.DstDATOSTableAdapters.TableAdapterManager.UpdateInsertedRows(Carnes.DstDATOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:Carnes.DstDATOSTableAdapters.TableAdapterManager.UpdateDeletedRows(Carnes.DstDATOS,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:Carnes.DstDATOSTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:Carnes.DstDATOSTableAdapters.TableAdapterManager.UpdateAll(Carnes.DstDATOS)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:Carnes.DstDATOSTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

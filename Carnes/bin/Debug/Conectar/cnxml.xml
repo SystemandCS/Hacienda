@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<aplicaciones>
+ 	<CARNES>
+		<connectionstring>
+			Data Source=soraire;Initial Catalog=URIEN;User ID=sa;Password=AvAA.1480
+		</connectionstring>
+	</CARNES>
+
+
+
+  
+  
+  
+  
+</aplicaciones>

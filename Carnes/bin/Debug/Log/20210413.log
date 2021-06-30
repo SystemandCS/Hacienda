@@ -1,0 +1,12 @@
+13/4/2021 22:45:11 [LERROR] Error con excepción
+	Error en la ejecucion de la Sentencia Sql: select idPais, nombre From grl_pais_ -El nombre de objeto 'grl_pais_' no es válido.
+	System.ApplicationException: Error en la ejecucion de la Sentencia Sql: select idPais, nombre From grl_pais_ -El nombre de objeto 'grl_pais_' no es válido.
+   en Carnes.ClsGenerica.EjecutarSql(String StrSql) en C:\SistemasCarnes\Sistema\Carnes\Datos\ClsGenerica.vb:línea 73
+   en Carnes.FrmProveedores.ComboPais() en C:\SistemasCarnes\Sistema\Carnes\FrmProveedores.vb:línea 237
+13/4/2021 22:45:16 [DEBUG] FrmProveedores.vb::247 - Debug con traza
+13/4/2021 22:45:19 [INFO] FrmProveedores.vb::248 - Info sin traza
+13/4/2021 22:45:22 [LERROR] FrmProveedores.vb::249 - Error con excepción y traza
+	Error en la ejecucion de la Sentencia Sql: select idPais, nombre From grl_pais_ -El nombre de objeto 'grl_pais_' no es válido.
+	System.ApplicationException: Error en la ejecucion de la Sentencia Sql: select idPais, nombre From grl_pais_ -El nombre de objeto 'grl_pais_' no es válido.
+   en Carnes.ClsGenerica.EjecutarSql(String StrSql) en C:\SistemasCarnes\Sistema\Carnes\Datos\ClsGenerica.vb:línea 73
+   en Carnes.FrmProveedores.ComboPais() en C:\SistemasCarnes\Sistema\Carnes\FrmProveedores.vb:línea 237

@@ -1,0 +1,9 @@
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\bin\Debug\SVRDATOSNET2008.dll
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\bin\Debug\SVRDATOSNET2008.pdb
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\bin\Debug\SVRDATOSNET2008.xml
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\SVRDATOSNET2008.Resources.resources
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\SVRDATOSNET2008.vbproj.GenerateResource.Cache
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\SVRDATOSNET2008.dll
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\SVRDATOSNET2008.xml
+D:\Users\esteban\AppData\Local\Temporary Projects\SVRDATOSNET2008\obj\Debug\SVRDATOSNET2008.pdb
