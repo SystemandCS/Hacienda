@@ -15,6 +15,7 @@ Public Class FrmPrincipal
 
         'AQUI SE BLOQUEAN MENUS DEL SISTEMA 
         If USUTIPO = "VENDEDOR" Then
+
             RegistroDeProveedoresToolStripMenuItem.Visible = False
             RegistroDeFamiliarToolStripMenuItem.Visible = False
             RegistroDeSubFamiliasToolStripMenuItem.Visible = False
@@ -22,7 +23,7 @@ Public Class FrmPrincipal
             RegistroDeArticulosToolStripMenuItem.Visible = False
             ImpuestoToolStripMenuItem.Visible = False
             SeriesToolStripMenuItem.Visible = False
-            OrdenDeIngresoToolStripMenuItem.Visible = False
+
             ReporteDeVentasToolStripMenuItem.Visible = False
             ReporteDeClientesToolStripMenuItem.Visible = False
             ReporteDeProveedoresToolStripMenuItem.Visible = False
@@ -33,6 +34,10 @@ Public Class FrmPrincipal
             RegistroDeUsuariosToolStripMenuItem.Visible = False
             ReporteDeIngresosToolStripMenuItem.Visible = False
             ReporteDeKardexToolStripMenuItem.Visible = False
+
+
+            OrdenDeIngresoToolStripMenuItem.Visible = True
+
         End If
 
 
@@ -43,7 +48,7 @@ Public Class FrmPrincipal
 
 
 
-    Private Sub CambiarPasswordToolStripMenuItem_Click(sender As Object, e As EventArgs) 
+    Private Sub CambiarPasswordToolStripMenuItem_Click(sender As Object, e As EventArgs)
         Dim FRM As New FrmCambiarPassword
         FRM.MdiParent = Me
         FRM.Show()
@@ -103,5 +108,19 @@ Public Class FrmPrincipal
 
     End Sub
 
+    Private Sub OrdenDeIngresoToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles OrdenDeIngresoToolStripMenuItem.Click
 
+        Dim FRM As New FrmHacienda
+        FRM.MdiParent = Me
+        FRM.Show()
+
+    End Sub
+
+    Private Sub HaciendaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles HaciendaToolStripMenuItem.Click
+
+        Dim FRM As New FrmHacienda
+        FRM.MdiParent = Me
+        FRM.Show()
+
+    End Sub
 End Class

@@ -1,0 +1,32 @@
+
+----------MENSAJE  REF:642855442----------
+Usuario:EURIEN
+Equipo:urien
+Fecha Hora:20210820 17:40:57
+Formulario:Carnes.FrmHacienda
+Metodo:FrmHacienda_Load
+Mensaje:No se pudo cargar el combo cboProveedor
+HelpLink:
+Source:Carnes
+StackTrace:   en Carnes.ClsCombos.CargarComboProveedor(ComboBox combo, Boolean sinEspecificar) en C:\Carnes.Hacienda\Hacienda\Carnes\Datos\ClsCombos.vb:línea 102
+   en Carnes.FrmHacienda.FrmHacienda_Load(Object sender, EventArgs e) en C:\Carnes.Hacienda\Hacienda\Carnes\FrmHacienda.vb:línea 154
+TargetSite:Void CargarComboProveedor(System.Windows.Forms.ComboBox, Boolean)
+Informacion Extra
+----------FIN MENSAJE-------------
+
+
+----------MENSAJE  REF:941198355----------
+Usuario:EURIEN
+Equipo:urien
+Fecha Hora:20210820 17:41:26
+Formulario:Carnes.FrmHacienda
+Metodo:FrmHacienda_Load
+Mensaje:No se pudo cargar el combo cboProveedor
+HelpLink:
+Source:Carnes
+StackTrace:   en Carnes.ClsCombos.CargarComboProveedor(ComboBox combo, Boolean sinEspecificar) en C:\Carnes.Hacienda\Hacienda\Carnes\Datos\ClsCombos.vb:línea 102
+   en Carnes.FrmHacienda.FrmHacienda_Load(Object sender, EventArgs e) en C:\Carnes.Hacienda\Hacienda\Carnes\FrmHacienda.vb:línea 154
+TargetSite:Void CargarComboProveedor(System.Windows.Forms.ComboBox, Boolean)
+Informacion Extra
+----------FIN MENSAJE-------------
+

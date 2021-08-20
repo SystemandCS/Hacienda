@@ -210,6 +210,7 @@ Public Class FrmProductores
     End Sub
 
 #End Region
+
 #Region "Grilla Proveedores"
 
 
@@ -601,7 +602,7 @@ Public Class FrmProductores
     End Sub
 
 
-
+#End Region
 
 #Region "CARGAR COMBOS"
     ' Cargar Combo Localidad
@@ -774,14 +775,6 @@ Public Class FrmProductores
 
         'txtusuario.Focus()
     End Sub
-
-    Private Sub TxtProvNro_TextChanged(sender As Object, e As EventArgs) Handles TxtProvNro.TextChanged
-
-    End Sub
-
-
-
-#End Region
 
 
 End Class

@@ -52,12 +52,13 @@ Partial Class FrmPrincipal
         Me.TablasToolStripMenuItem1 = New System.Windows.Forms.ToolStripMenuItem()
         Me.LocalidadesToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.LogueoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
+        Me.HaciendaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TablasToolStripMenuItem, Me.IngresoToolStripMenuItem, Me.VentasToolStripMenuItem, Me.ReportesToolStripMenuItem, Me.SeguridadToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.TablasToolStripMenuItem, Me.IngresoToolStripMenuItem, Me.VentasToolStripMenuItem, Me.ReportesToolStripMenuItem, Me.HaciendaToolStripMenuItem, Me.SeguridadToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(607, 24)
@@ -140,8 +141,8 @@ Partial Class FrmPrincipal
         '
         Me.OrdenDeIngresoToolStripMenuItem.Image = Global.Carnes.My.Resources.Resources.ingresos
         Me.OrdenDeIngresoToolStripMenuItem.Name = "OrdenDeIngresoToolStripMenuItem"
-        Me.OrdenDeIngresoToolStripMenuItem.Size = New System.Drawing.Size(165, 22)
-        Me.OrdenDeIngresoToolStripMenuItem.Text = "Orden de Ingreso"
+        Me.OrdenDeIngresoToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
+        Me.OrdenDeIngresoToolStripMenuItem.Text = "Hacienda"
         '
         'VentasToolStripMenuItem
         '
@@ -260,6 +261,12 @@ Partial Class FrmPrincipal
         Me.LogueoToolStripMenuItem.Size = New System.Drawing.Size(181, 22)
         Me.LogueoToolStripMenuItem.Text = "Logueo"
         '
+        'HaciendaToolStripMenuItem
+        '
+        Me.HaciendaToolStripMenuItem.Name = "HaciendaToolStripMenuItem"
+        Me.HaciendaToolStripMenuItem.Size = New System.Drawing.Size(69, 20)
+        Me.HaciendaToolStripMenuItem.Text = "Hacienda"
+        '
         'FrmPrincipal
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -310,4 +317,5 @@ Partial Class FrmPrincipal
     Friend WithEvents TablasToolStripMenuItem1 As ToolStripMenuItem
     Friend WithEvents LocalidadesToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents LogueoToolStripMenuItem As ToolStripMenuItem
+    Friend WithEvents HaciendaToolStripMenuItem As ToolStripMenuItem
 End Class
